@@ -53,26 +53,23 @@ plt.show()
 
 ### Display the input Image
 <br>
-<br>
-<br>
-<br>
-<br>
+
+![image](https://github.com/user-attachments/assets/6d4dc736-0c4c-4c5d-8f95-3276fcbc0f21)
+
 <br>
 
 ### Display the Eroded Image
 <br>
-<br>
-<br>
-<br>
-<br>
+
+![image](https://github.com/user-attachments/assets/0ab4b18d-8bd1-4b42-ac1c-42e9e8c0abeb)
+
 <br>
 
 ### Display the Dilated Image
 <br>
-<br>
-<br>
-<br>
-<br>
+
+![image](https://github.com/user-attachments/assets/7b32d13d-f591-413d-b826-ea37bad13730)
+
 <br>
 
 ## Result
